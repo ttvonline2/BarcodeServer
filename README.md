@@ -1,0 +1,2 @@
+# BarcodeServer
+Server cho barcode
